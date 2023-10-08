@@ -70,12 +70,12 @@ A demo of the application:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/PC-FSU/multi-pdf-query
+   git clone https://github.com/PC-FSU/text2Sql.git
 
 2. Change to the project directory:
 
    ```bash
-      cd multi-pdf-query
+      cd text2Sql
 
 3. Install the required Python packages:
    ```
